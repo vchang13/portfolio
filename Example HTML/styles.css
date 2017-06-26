@@ -1,0 +1,15 @@
+h1 {
+  color: magenta;
+  font-family: cursive;
+  font-size: 60px;
+}
+p {
+  color: orange;
+  font-family: cursive;
+  font-size: 40px;
+}
+a {
+  color: aqua;
+  font-family: cursive;
+  font-size: 25px;
+}
